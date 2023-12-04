@@ -1,0 +1,5 @@
+*.so
+build/*
+lel.bin
+memray-flamegraph-lel.html
+.idea/*
